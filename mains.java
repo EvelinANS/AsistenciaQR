@@ -1,7 +1,7 @@
 public class mains {
 
     public static void main(String[] args) {
-        usuario user = new usuario("Evelin", "Gómez");
+        usuario user = new usuario("Evelin", "Angeles");
         user.getNombre();
         System.out.println(user.getNombre());
 
